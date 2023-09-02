@@ -8,26 +8,18 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
 ## Welcome
 Welcome to OWASP MEF University. We will be happy to see you if you join us! MEF University is a non-profit private university in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation. It opened in the academic year 2014–2015. It is the first university in the world to adopt the "flipped classroom" educational model university-wide. At OWASP MEF University, we organize Meetups, conferences, professional speaker series, workshops, and inspiring presentations about Cyber Security.
+
+## Chapter Information
+OWASP MEF University was established in August 2023 as a Student Chapter.
+
+Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP MEF University Student Chapter, contact the chapter leaders:
+
+* [Bogdan Itsam Dorantes-Nikolaev](mailto:bogdan.itsam@owasp.org)
+* [Yağmur Akbaş](mailto:yagmur.akbas@owasp.org)
+* [Tan Bayav](mailto:tan.bayav@owasp.org)
+* [Prof. Tuna Cakar](mailto:tuna.cakar@owasp.org)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
