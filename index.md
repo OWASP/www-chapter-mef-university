@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to OWASP MEF University. We will be happy to see you if you join us! MEF University is a non-profit private university in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation. It opened in the academic year 2014–2015. It is the first university in the world to adopt the "flipped classroom" educational model university-wide. At OWASP MEF University, we organize Meetups, conferences, professional speaker series, workshops, and inspiring presentations about Cyber Security.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
