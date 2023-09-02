@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP MEF University
-tags: example-tag
+title: OWASP MEF University - Student Chapter
+tags: owaspmef
 region: Europe
 meetup-group:
 
