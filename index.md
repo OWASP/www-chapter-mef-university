@@ -9,7 +9,7 @@ meetup-group:
 ---
 
 ## Welcome
-Welcome to OWASP MEF University. We're thrilled to welcome you to our community. MEF University is a non-profit private university located in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation in 2014. It is the first university in the world to adopt the "flipped classroom" educational model university-wide.
+Welcome to the OWASP MEF University student chapter! We're thrilled to welcome you to our community. MEF University is a non-profit private university located in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation in 2014. It is the first university in the world to adopt the "flipped classroom" educational model university-wide.
 
 Here at OWASP MEF University, we're dedicated to fostering a dynamic environment for all things related to Cyber Security. We host a variety of events and activities, including Meetups, conferences, professional speaker series, workshops, job shadowing opportunities, campus visits, alumni interviews, and inspiring presentations. Join us in shaping the future of cybersecurity education and innovation!
 
