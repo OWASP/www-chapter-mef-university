@@ -8,8 +8,8 @@ tags: owaspmef
 
 ## Upcoming Events
 
-OWASP MEF University's next public meetings:
+OWASP MEF University's upcoming public meetings:
 
 ## Past Events
 
-OWASP MEF University's next public meetings:
+OWASP MEF University's past public meetings:
