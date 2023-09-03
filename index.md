@@ -27,7 +27,6 @@ Keep watching this space for announcements about upcoming events. Everyone is we
 
 ## Future Meetings
 
-
 ## Benefits of Attending Meetings
 + Networking
 + Cyber Security knowledge sharing
