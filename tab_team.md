@@ -10,6 +10,6 @@ tags: owaspmef
 
 
 ## 2023-2024:
-* [Bogdan Itsam Dorantes-Nikolaev](https://www.linkedin.com/in/bogdan-dorantes/) (Founder)
-* [Yağmur Akbaş ](https://www.linkedin.com/in/yaagmurakbas/) (Leader)
-* [Tan Bayav](https://www.linkedin.com/in/tanbyv/) (Leader)
+* [Bogdan Itsam Dorantes-Nikolaev](https://www.linkedin.com/in/bogdan-dorantes/) - Founder
+* [Yağmur Akbaş ](https://www.linkedin.com/in/yaagmurakbas/) - Leader
+* [Tan Bayav](https://www.linkedin.com/in/tanbyv/) - Leader
