@@ -8,7 +8,7 @@ tags: owaspmef
 
 ## OWASP MEF University Team
 
-##----
+
 
 ## 2023-2024:
 * [Bogdan Itsam Dorantes-Nikolaev](https://www.linkedin.com/in/bogdan-dorantes/) - Founder
