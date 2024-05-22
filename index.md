@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP MEF University - Student Chapter
 tags: owaspmef
-region: Europe
+region: Asia
 country: Turkey
 meetup-group:
 
