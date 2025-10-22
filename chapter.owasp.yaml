@@ -1,0 +1,26 @@
+leaders:
+  - name: Bogdan Itsam Dorantes-Nikolaev
+    email: bogdan.itsam@owasp.org
+    github: Babdan
+  - name: Yağmur Akbaş
+    email: yagmur.akbas@owasp.org
+  - name: Tan Bayav
+    email: tan.bayav@owasp.org
+  - name: Prof. Tuna Cakar
+    email: tuna.cakar@owasp.org
+location:
+  country: Turkey
+  country_code: TR
+  region: Asia
+  latitude: 37.1322043
+  longitude: 31.092525282623676
+name: OWASP MEF University - Student Chapter
+repositories:
+  - name: www-chapter-mef-university
+    url: https://github.com/OWASP/www-chapter-mef-university
+    description: OWASP Foundation Web Repository
+tags:
+  - owaspmef
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-mef-university
